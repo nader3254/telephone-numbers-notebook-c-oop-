@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `f:/projects/c++/HOW-O-MAKE-telephone-directory-USING-C---master'
+g++ -Wall -o bin.exe main.cpp -v 
+ 
+make.exe: Leaving directory `f:/projects/c++/HOW-O-MAKE-telephone-directory-USING-C---master'
+ 
